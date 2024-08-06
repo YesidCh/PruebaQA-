@@ -15,7 +15,7 @@
   5.2- Seleccionamos la opcion de Existing Projects into Workspace:
   ![image](https://github.com/user-attachments/assets/91aea595-6f85-4a76-a9c9-f1d3750a3016)
   
-  5.3- Buscamos la carpeta donde descomprimimos, con la opcion select root directory: 
+  5.3- Buscamos la carpeta donde quedo el archivo .zip, y seleccionamos la opcion select root directory: 
   ![image](https://github.com/user-attachments/assets/3d7341e8-43c1-430a-8a01-8a9de19ecda2)
   
   5.4- Seleccionamos la carpeta: 
