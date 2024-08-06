@@ -1,2 +1,4 @@
 # PruebaQA-
-Se debe descargar toda la carpeta    ![image](https://github.com/user-attachments/assets/04beb3d0-5b4b-4923-ac30-99cfcab1a9fb)
+Se debe descargar toda la carpeta 
+![image](https://github.com/user-attachments/assets/66e779bc-e4be-4794-990b-aa4aec5bff66)
+
