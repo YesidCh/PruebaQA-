@@ -2,6 +2,7 @@
 1- Se debe descargar e instalar el jdk (Java Development Kit): https://www.oracle.com/java/technologies/downloads/#jdk22-windows
 ![image](https://github.com/user-attachments/assets/0bb6f473-8d9d-43c8-8bd7-82c0c9fdc2b4)
 2-Verificar variables de entorno JAVA_HOME y PATH: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=389:configurar-java-en-windows-variables-de-entorno-javahome-y-path-cu00610b&catid=68&Itemid=188
+
 3- Descarga e instalar Eclipse: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-06/R/eclipse-inst-jre-win64.exe
 4- Descargar proyecto .zip y descomprimirlo.
 5- Importar proyecto:
