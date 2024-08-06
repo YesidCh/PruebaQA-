@@ -4,7 +4,9 @@
 2-Verificar variables de entorno JAVA_HOME y PATH: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=389:configurar-java-en-windows-variables-de-entorno-javahome-y-path-cu00610b&catid=68&Itemid=188
 
 3- Descarga e instalar Eclipse: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-06/R/eclipse-inst-jre-win64.exe
-4- Descargar proyecto .zip y descomprimirlo.
+
+4- Descargar proyecto git .zip y descomprimirlo.
+
 5- Importar proyecto:
   5.1- ![image](https://github.com/user-attachments/assets/fea5a986-9d30-4add-97a9-37ba7bb9acfe)
   5.2- ![image](https://github.com/user-attachments/assets/91aea595-6f85-4a76-a9c9-f1d3750a3016)
