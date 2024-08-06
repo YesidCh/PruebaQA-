@@ -8,7 +8,7 @@
 4- Descargar proyecto git .zip y descomprimirlo.
 
 5- Importar proyecto:
-  5.1- 
+  5.1- Buscamos la opcion de importar:
   ![image](https://github.com/user-attachments/assets/fea5a986-9d30-4add-97a9-37ba7bb9acfe)
   5.2- 
   ![image](https://github.com/user-attachments/assets/91aea595-6f85-4a76-a9c9-f1d3750a3016)
